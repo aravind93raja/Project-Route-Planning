@@ -1,8 +1,12 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+n this project, aroute planner is created that plots a path between two points on a map using real map data from the [OpenStreeMap project](https://classroom.udacity.com/nanodegrees/nd213/parts/0695ba01-bd82-48df-bedb-18bb87ab3b73/modules/b92850d9-cabe-445a-af5b-bc45af228626/lessons/4c62f051-2032-4ca1-aaa9-6293e0cbe6db/concepts/285bffbf-2faa-454d-a81f-9057a270e9e9).
 
-<img src="map.png" width="600" height="450" />
+## Some of the Results
+
+<img src="images/result1.png"/>
+
+<img src="images/result2.png"/>
 
 ## Cloning
 
